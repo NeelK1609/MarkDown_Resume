@@ -61,6 +61,7 @@ Walmart, Winnipeg, Manitoba
 - Faculty of Science Undergraduate Student Research Award (USRA) for Summer 2023
 - Undergraduate Poster Competition
 - DAAD Rise Germany Intership
+  
 ## Additional Skills
 - Licenses: Class 5F Driver’s License, Smart Choices
 - Language: Fluent in English, Gujarati, and Hindi
